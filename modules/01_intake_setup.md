@@ -1,4 +1,5 @@
 **Collect essential details: 
+
 Destination(s) - Dates or trip length
 Number of travelers - Budget style (affordable, mid-range, luxury)
 Interests (food, culture, nature, etc.)
